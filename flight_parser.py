@@ -179,7 +179,6 @@ def main(argv: list[str] | None = None) -> int:
 
  return 0
 
- raise NotImplementedError("main() is not written yet")
 
 
 if __name__ == "__main__":
