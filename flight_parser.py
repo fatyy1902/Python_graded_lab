@@ -177,7 +177,7 @@ def main(argv: list[str] | None = None) -> int:
         except OSError as exc:
             return _print_error(f"Cannot write response file '{response_path}': {exc}")
 
- return 0
+    return 0
 
 
 
